@@ -1,0 +1,235 @@
+<oaf_info>
+
+<oaf_server iid="OAFIID:GNOME_GtkHTML_Editor_Factory:3.14" type="shlib"
+            location="../../../lib/gtkhtml/libgnome-gtkhtml-editor-3.14.dll">
+
+	<oaf_attribute name="repo_ids" type="stringv">
+		<item value="IDL:GNOME/GenericFactory:1.0"/>
+	</oaf_attribute>
+
+	<oaf_attribute name="name" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-ar" type="string" value="مصنع محرر HTML لجينوم"/>
+	<oaf_attribute name="name-as" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-az" type="string" value="GNOME HTML Editor Emalatxanası"/>
+	<oaf_attribute name="name-be" type="string" value="Вытворчасьць рэдактара HTML для GNOME"/>
+	<oaf_attribute name="name-bg" type="string" value="Фабрика на редактора на HTML за GNOME"/>
+	<oaf_attribute name="name-bn" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-bn_IN" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-ca" type="string" value="Factoria de l&apos;editor HTML del GNOME"/>
+	<oaf_attribute name="name-cs" type="string" value="Generátor GNOME HTML Editor"/>
+	<oaf_attribute name="name-cy" type="string" value="Ffatri Golygu HTML GNOME"/>
+	<oaf_attribute name="name-da" type="string" value="Gnome HTML-redigeringsfabrik"/>
+	<oaf_attribute name="name-de" type="string" value="GNOME-HTML-Editorfabrik"/>
+	<oaf_attribute name="name-dz" type="string" value="ཇི་ནོམ་ ཨེཆ་ཊི་ཨེམ་ཨེལ་ ཞུན་དག་པའི་འཕྲུལ་ཁང་།"/>
+	<oaf_attribute name="name-el" type="string" value="Εργοστάσιο επεξεργαστή HTML του GNOME"/>
+	<oaf_attribute name="name-en_CA" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-en_GB" type="string" value="GNOME HTML Editor Factory"/>
+	<oaf_attribute name="name-es" type="string" value="Fábrica del editor HTML de Gnome"/>
+	<oaf_attribute name="name-et" type="string" value="GNOME-i HTML-redaktori Factory"/>
+	<oaf_attribute name="name-eu" type="string" value="GNOME HTML editorearen fabrika"/>
+	<oaf_attribute name="name-fa" type="string" value="کارخانه‌ی ویرایش‌گر HTML گنوم"/>
+	<oaf_attribute name="name-fi" type="string" value="GNOME HTML-muokkaintehdas"/>
+	<oaf_attribute name="name-fr" type="string" value="Fabrique pour l&apos;éditeur HTML GNOME"/>
+	<oaf_attribute name="name-gl" type="string" value="Fábrica do editor HTML de Gnome"/>
+	<oaf_attribute name="name-gu" type="string" value="GNOME HTML સંપાદક કારખાનું"/>
+	<oaf_attribute name="name-he" type="string" value="יצרן עורך HTML בעבור GNOME"/>
+	<oaf_attribute name="name-hi" type="string" value="गनोम एचटीएमएल संपादक"/>
+	<oaf_attribute name="name-hr" type="string" value="Tvornica GNOME urednika HTML-a"/>
+	<oaf_attribute name="name-hu" type="string" value="GNOME HTML-szerkesztő factory"/>
+	<oaf_attribute name="name-id" type="string" value="Pabrikan Penyunting HTML GNOME"/>
+	<oaf_attribute name="name-it" type="string" value="Fabbrica dell&apos;editor HTML per GNOME"/>
+	<oaf_attribute name="name-ja" type="string" value="GNOME HTML エディタ・ファクトリ"/>
+	<oaf_attribute name="name-ka" type="string" value="გნომის HTML რედაქტორის სახელოსნო"/>
+	<oaf_attribute name="name-ko" type="string" value="GNOME HTML 편집기 팩토리"/>
+	<oaf_attribute name="name-lt" type="string" value="GNOME HTML redaktoriaus gamykla"/>
+	<oaf_attribute name="name-lv" type="string" value="GNOME HTML Redaktora Ražotne"/>
+	<oaf_attribute name="name-mg" type="string" value="Toerana fanamboarana ny mpanova HTML an&apos;ny GNOME"/>
+	<oaf_attribute name="name-mk" type="string" value="GNOME HTML Уредувач фабрика"/>
+	<oaf_attribute name="name-ml" type="string" value="GNOME HTML എഡിറ്റര്‍ ശാല"/>
+	<oaf_attribute name="name-mn" type="string" value="GNOME HTML з"/>
+	<oaf_attribute name="name-mr" type="string" value="GNOME HTML संपादक फॅक्टरी"/>
+	<oaf_attribute name="name-ms" type="string" value="Kilang Editor HTML GNOME"/>
+	<oaf_attribute name="name-nb" type="string" value="GNOME HTML-redigering factory"/>
+	<oaf_attribute name="name-ne" type="string" value="जिनोम एचटीएमएल (HTML) सम्पादक कारखाना"/>
+	<oaf_attribute name="name-nl" type="string" value="Gnome HTML-editor fabriek"/>
+	<oaf_attribute name="name-nn" type="string" value="GNOME HTML redigerarfabrikk"/>
+	<oaf_attribute name="name-pa" type="string" value="ਗਨੋਮ HTML ਸੰਪਾਦਕ ਫੈਕਟਰੀ"/>
+	<oaf_attribute name="name-pl" type="string" value="Generator edytora HTML-a dla GNOME"/>
+	<oaf_attribute name="name-pt" type="string" value="Fábrica do Editor HTML do GNOME"/>
+	<oaf_attribute name="name-pt_BR" type="string" value="A Fábrica do Editor HTML do GNOME"/>
+	<oaf_attribute name="name-ro" type="string" value="Factory editor HTML GNOME"/>
+	<oaf_attribute name="name-ru" type="string" value="Фабрика редактора HTML для среды GNOME"/>
+	<oaf_attribute name="name-sk" type="string" value="Vytváracie rozhranie pre GNOME HTML editor"/>
+	<oaf_attribute name="name-sl" type="string" value="Tovarna urejevalnika HTML GNOME"/>
+	<oaf_attribute name="name-sq" type="string" value="Fabrika e Editorit HTML të GNOME"/>
+	<oaf_attribute name="name-sr" type="string" value="Фабрика Гномовог уређивача HTML-а"/>
+	<oaf_attribute name="name-sr@Latn" type="string" value="Fabrika Gnomovog uređivača HTML-a"/>
+	<oaf_attribute name="name-sv" type="string" value="HTML-redigerarfabrik för GNOME"/>
+	<oaf_attribute name="name-ta" type="string" value="க்னோம் ஹெச்டிஎம்எல்(ஹெச்டிஎம்எல்(HTML)) தொகுப்பி தொழிற்சாலை"/>
+	<oaf_attribute name="name-th" type="string" value="โรงงานเครื่องมือแก้ไข HTML ของ GNOME"/>
+	<oaf_attribute name="name-tr" type="string" value="GNOME HTML Düzenleyici Üreticisi"/>
+	<oaf_attribute name="name-uk" type="string" value="Фабрика редактора HTML для середовища GNOME"/>
+	<oaf_attribute name="name-vi" type="string" value="Bộ tạo trình soạn thảo HTML GNOME"/>
+	<oaf_attribute name="name-xh" type="string" value="IFektri yoMhleli we-HTML we-GNOME"/>
+	<oaf_attribute name="name-zh_CN" type="string" value="GNOME HTML 编辑工厂"/>
+	<oaf_attribute name="name-zh_HK" type="string" value="GNOME HTML 編輯元件的工廠"/>
+	<oaf_attribute name="name-zh_TW" type="string" value="GNOME HTML 編輯元件的工廠"/>
+</oaf_server>
+
+<oaf_server iid="OAFIID:GNOME_GtkHTML_Editor:3.14" type="factory" location="OAFIID:GNOME_GtkHTML_Editor_Factory:3.14">
+
+	<oaf_attribute name="repo_ids" type="stringv">
+		<item value="IDL:Bonobo/Control:1.0"/>
+		<item value="IDL:Bonobo/Unknown:1.0"/>
+		<item value="IDL:Bonobo/PersistStream:1.0"/>
+		<item value="IDL:Bonobo/PersistFile:1.0"/>
+		<item value="IDL:Bonobo/Persist:1.0"/>
+	</oaf_attribute>
+
+	<oaf_attribute name="name" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-am" type="string" value="የኖም HTML ማቀናጃ"/>
+	<oaf_attribute name="name-ar" type="string" value="محرر HTML لجينوم"/>
+	<oaf_attribute name="name-as" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-az" type="string" value="GNOME HTML Editoru"/>
+	<oaf_attribute name="name-be" type="string" value="Рэдактар HTML для GNOME"/>
+	<oaf_attribute name="name-bg" type="string" value="Редактор на HTML за GNOME"/>
+	<oaf_attribute name="name-bn" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-bn_IN" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-ca" type="string" value="Editor HTML del GNOME"/>
+	<oaf_attribute name="name-cs" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-cy" type="string" value="Golygydd HTML GNOME"/>
+	<oaf_attribute name="name-da" type="string" value="Gnome HTML-redigering"/>
+	<oaf_attribute name="name-de" type="string" value="GNOME-HTML-Editor"/>
+	<oaf_attribute name="name-dz" type="string" value="ཇི་ནོམ་ ཨེཆ་ཊི་ཨེམ་ཨེལ་ ཞུན་དགཔ།"/>
+	<oaf_attribute name="name-el" type="string" value="Επεξεργαστής HTML του GNOME"/>
+	<oaf_attribute name="name-en_CA" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-en_GB" type="string" value="GNOME HTML Editor"/>
+	<oaf_attribute name="name-es" type="string" value="Editor HTML de Gnome"/>
+	<oaf_attribute name="name-et" type="string" value="GNOME HTML-Redaktor"/>
+	<oaf_attribute name="name-eu" type="string" value="GNOME HTML-editorea"/>
+	<oaf_attribute name="name-fa" type="string" value="ویرایش‌گر HTML گنوم"/>
+	<oaf_attribute name="name-fi" type="string" value="GNOME HTML-muokkain"/>
+	<oaf_attribute name="name-fr" type="string" value="Éditeur HTML GNOME"/>
+	<oaf_attribute name="name-ga" type="string" value="Eagarthóir HTML GNOME"/>
+	<oaf_attribute name="name-gl" type="string" value="Editor HTML de Gnome"/>
+	<oaf_attribute name="name-gu" type="string" value="GNOME HTML સંપાદક"/>
+	<oaf_attribute name="name-he" type="string" value="עורך HTML בעבור GNOME"/>
+	<oaf_attribute name="name-hi" type="string" value="गनोम एचटीएमएल संपादक"/>
+	<oaf_attribute name="name-hr" type="string" value="GNOME urednik HTML-a"/>
+	<oaf_attribute name="name-hu" type="string" value="GNOME HTML-szerkesztő"/>
+	<oaf_attribute name="name-id" type="string" value="Penyunting HTML GNOME"/>
+	<oaf_attribute name="name-it" type="string" value="Editor HTML per GNOME"/>
+	<oaf_attribute name="name-ja" type="string" value="GNOME HTML エディタ"/>
+	<oaf_attribute name="name-ka" type="string" value="გნომის HTML რედაქტორი"/>
+	<oaf_attribute name="name-ko" type="string" value="GNOME HTML 편집기"/>
+	<oaf_attribute name="name-lt" type="string" value="GNOME HTML redaktorius"/>
+	<oaf_attribute name="name-lv" type="string" value="GNOME HTML Redaktors"/>
+	<oaf_attribute name="name-mg" type="string" value="Mpanova HTML an&apos;ny GNOME"/>
+	<oaf_attribute name="name-mk" type="string" value="GNOME HTML Уредувач"/>
+	<oaf_attribute name="name-ml" type="string" value="GNOME HTML എഡിറ്റര്‍"/>
+	<oaf_attribute name="name-mn" type="string" value="GNOME HTML засварлагч&quot;"/>
+	<oaf_attribute name="name-mr" type="string" value="GNOME HTML संपादक"/>
+	<oaf_attribute name="name-ms" type="string" value="Editor HTML GNOME"/>
+	<oaf_attribute name="name-nb" type="string" value="GNOME HTML-redigering"/>
+	<oaf_attribute name="name-ne" type="string" value="जिनोम एचटीएमएल (HTML) सम्पादक"/>
+	<oaf_attribute name="name-nl" type="string" value="Gnome HTML-editor"/>
+	<oaf_attribute name="name-nn" type="string" value="GNOME  HTML-redigeringsprogram"/>
+	<oaf_attribute name="name-oc" type="string" value="Editor HTML de GNOME"/>
+	<oaf_attribute name="name-pa" type="string" value="ਗਨੋਮ HTML ਸੰਪਾਦਕ"/>
+	<oaf_attribute name="name-pl" type="string" value="Edytor HTML-a dla GNOME"/>
+	<oaf_attribute name="name-pt" type="string" value="Editor HTML do GNOME"/>
+	<oaf_attribute name="name-pt_BR" type="string" value="O Editor de HTML do GNOME"/>
+	<oaf_attribute name="name-ro" type="string" value="Editor HTML GNOME"/>
+	<oaf_attribute name="name-ru" type="string" value="Редактор HTML для среды GNOME"/>
+	<oaf_attribute name="name-sk" type="string" value="GNOME HTML editor"/>
+	<oaf_attribute name="name-sl" type="string" value="Urejevalnik HTML GNOME"/>
+	<oaf_attribute name="name-sq" type="string" value="Editori HTML i GNOME"/>
+	<oaf_attribute name="name-sr" type="string" value="Гномов уређивач HTML-а"/>
+	<oaf_attribute name="name-sr@Latn" type="string" value="Gnomov uređivač HTML-a"/>
+	<oaf_attribute name="name-sv" type="string" value="HTML-redigerare för GNOME"/>
+	<oaf_attribute name="name-ta" type="string" value="க்னோம் ஹெச்டிஎம்எல்(ஹெச்டிஎம்எல்(HTML)) தொகுப்பி"/>
+	<oaf_attribute name="name-th" type="string" value="เครื่องมือแก้ไข HTML ของ GNOME"/>
+	<oaf_attribute name="name-tr" type="string" value="GNOME HTML Düzenleyici"/>
+	<oaf_attribute name="name-uk" type="string" value="Редактор HTML для середовища GNOME"/>
+	<oaf_attribute name="name-vi" type="string" value="Bộ biên soạn HTML GNOME"/>
+	<oaf_attribute name="name-xh" type="string" value="UMhleli we-HTML we-GNOME"/>
+	<oaf_attribute name="name-zh_CN" type="string" value="GNOME HTML 编辑器"/>
+	<oaf_attribute name="name-zh_HK" type="string" value="GNOME HTML 編輯元件"/>
+	<oaf_attribute name="name-zh_TW" type="string" value="GNOME HTML 編輯元件"/>
+	<oaf_attribute name="description" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-ar" type="string" value="تحكم محرر HTML لجينوم"/>
+	<oaf_attribute name="description-as" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-az" type="string" value="GNOME HTML Editor İdarəsi"/>
+	<oaf_attribute name="description-be" type="string" value="Кіраваньне рэдактара HTML для GNOME"/>
+	<oaf_attribute name="description-bg" type="string" value="Контрол за редактора на HTML за GNOME"/>
+	<oaf_attribute name="description-bn" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-bn_IN" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-ca" type="string" value="Control d&apos;edició HTML del GNOME"/>
+	<oaf_attribute name="description-cs" type="string" value="Ovládací prvek GNOME HTML Editor"/>
+	<oaf_attribute name="description-cy" type="string" value="Rheolydd Golygu HTML GNOME"/>
+	<oaf_attribute name="description-da" type="string" value="Gnome HTML-redigeringskontrol"/>
+	<oaf_attribute name="description-de" type="string" value="Bedienelement des GNOME-HTML-Editors"/>
+	<oaf_attribute name="description-dz" type="string" value="ཇི་ནོམ་ ཨེཆ་ཊི་ཨེམ་ཨེལ་ ཞུན་དག་པའི་ཚད་འཛིན།"/>
+	<oaf_attribute name="description-el" type="string" value="Έλεγχος επεξεργαστή HTML του GNOME"/>
+	<oaf_attribute name="description-en_CA" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-en_GB" type="string" value="GNOME HTML Editor Control"/>
+	<oaf_attribute name="description-es" type="string" value="Control del editor HTML de Gnome"/>
+	<oaf_attribute name="description-et" type="string" value="GNOME HTML-redaktori juhtimine"/>
+	<oaf_attribute name="description-eu" type="string" value="GNOME HTML editorearen kontrola"/>
+	<oaf_attribute name="description-fa" type="string" value="کنترل ویرایش‌گر HTML گنوم"/>
+	<oaf_attribute name="description-fi" type="string" value="GNOME HTML-muokkainsäädin"/>
+	<oaf_attribute name="description-fr" type="string" value="Contrôle pour l&apos;éditeur HTML GNOME"/>
+	<oaf_attribute name="description-gl" type="string" value="Control do editor HTML de Gnome"/>
+	<oaf_attribute name="description-gu" type="string" value="GNOME HTML સંપાદક નિયંત્રણ"/>
+	<oaf_attribute name="description-he" type="string" value="בקרת עורך HTML בעבור GNOME"/>
+	<oaf_attribute name="description-hi" type="string" value="गनोम एचटीएमएल संपादक नियंत्रण"/>
+	<oaf_attribute name="description-hr" type="string" value="Kontrola GNOME urednika HTML-a"/>
+	<oaf_attribute name="description-hu" type="string" value="GNOME HTML-szerkesztő kontroll"/>
+	<oaf_attribute name="description-id" type="string" value="Kendali Penyunting HTML GNOME"/>
+	<oaf_attribute name="description-it" type="string" value="Controllo dell&apos;editor HTML per GNOME"/>
+	<oaf_attribute name="description-ja" type="string" value="GNOME HTML エディタ・コントロール"/>
+	<oaf_attribute name="description-ka" type="string" value="გნომის HTML რედაქტორის მართვა"/>
+	<oaf_attribute name="description-ko" type="string" value="GNOME HTML 편집기 컨트롤"/>
+	<oaf_attribute name="description-lt" type="string" value="GNOME HTML redaktoriaus valdymas"/>
+	<oaf_attribute name="description-lv" type="string" value="GNOME HTML Redaktora Kontrole"/>
+	<oaf_attribute name="description-mg" type="string" value="Mpibaiko ny mpanova HTML an&apos;ny GNOME"/>
+	<oaf_attribute name="description-mk" type="string" value="Контрола на GNOME HTML Уредувач"/>
+	<oaf_attribute name="description-ml" type="string" value="GNOME HTML എഡിറ്റര്‍ കണ്ട്രോള്‍"/>
+	<oaf_attribute name="description-mn" type="string" value="GNOME HTML хянан засварлагч"/>
+	<oaf_attribute name="description-mr" type="string" value="GNOME HTML संपादक नियंत्रण"/>
+	<oaf_attribute name="description-ms" type="string" value="Kawalan Editor HTML GNOME"/>
+	<oaf_attribute name="description-nb" type="string" value="Kontroll for GNOME HTML-redigering"/>
+	<oaf_attribute name="description-ne" type="string" value="जिनोम एचटीएमएल (HTML) सम्पादक नियन्त्रण"/>
+	<oaf_attribute name="description-nl" type="string" value="Gnome HTML-editor control"/>
+	<oaf_attribute name="description-nn" type="string" value="GNOME HTML redigerarkontroll"/>
+	<oaf_attribute name="description-pa" type="string" value="ਗਨੋਮ HTML ਸੰਪਾਦਕ ਕੰਟਰੋਲ"/>
+	<oaf_attribute name="description-pl" type="string" value="Komponent edytora HTML-a dla GNOME"/>
+	<oaf_attribute name="description-pt" type="string" value="Controlo de Editor HTML do GNOME"/>
+	<oaf_attribute name="description-pt_BR" type="string" value="O Controle do editor HTML do GNOME"/>
+	<oaf_attribute name="description-ro" type="string" value="Control editor HTML GNOME"/>
+	<oaf_attribute name="description-ru" type="string" value="Элемент управления редактором HTML для среды GNOME"/>
+	<oaf_attribute name="description-sk" type="string" value="Ovládací prvok pre GNOME HTML editor"/>
+	<oaf_attribute name="description-sl" type="string" value="Nadzor urejevalnika HTML GNOME"/>
+	<oaf_attribute name="description-sq" type="string" value="Kontrolli i Editorit HTML të GNOME"/>
+	<oaf_attribute name="description-sr" type="string" value="Гномов елемент за уређивање HTML-а"/>
+	<oaf_attribute name="description-sr@Latn" type="string" value="Gnomov element za uređivanje HTML-a"/>
+	<oaf_attribute name="description-sv" type="string" value="HTML-redigerarkontroll för GNOME"/>
+	<oaf_attribute name="description-ta" type="string" value="க்னோம் ஹெச்டிஎம்எல்(ஹெச்டிஎம்எல்(HTML)) தொகுப்பி கட்டுப்படுத்தி"/>
+	<oaf_attribute name="description-th" type="string" value="วิดเจ็ตแก้ไข HTML ของ GNOME"/>
+	<oaf_attribute name="description-tr" type="string" value="GNOME HTML Düzenleyici Denetimi"/>
+	<oaf_attribute name="description-uk" type="string" value="Елемент керування редактором HTML для середовища GNOME"/>
+	<oaf_attribute name="description-vi" type="string" value="Điều khiển Biên soạn HTML GNOME"/>
+	<oaf_attribute name="description-xh" type="string" value="IsiLawuli soMhleli we-HTML we-GNOME"/>
+	<oaf_attribute name="description-zh_CN" type="string" value="GNOME HTML 编辑器控制"/>
+	<oaf_attribute name="description-zh_HK" type="string" value="GNOME HTML 編輯元件"/>
+	<oaf_attribute name="description-zh_TW" type="string" value="GNOME HTML 編輯元件"/>
+
+	<oaf_attribute name="bonobo:editable" type="boolean" value="true"/>
+	<oaf_attribute name="bonobo:supported_mime_types" type="stringv">
+		<item value="text/html"/>
+		<item value="x-directory/webdav"/>
+	</oaf_attribute>
+
+</oaf_server>
+
+</oaf_info>
